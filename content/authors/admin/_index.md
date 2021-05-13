@@ -1,6 +1,7 @@
 ---
 title: Brian Jonathan Young
-role: Professor of Artificial Intelligence
+role: PhD in Ecotoxicology
+avatar_filename: foto-brian.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
