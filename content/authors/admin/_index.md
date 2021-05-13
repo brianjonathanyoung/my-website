@@ -14,7 +14,7 @@ social:
     link: https://twitter.com/BrianJonathanY1
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=d7taFN8AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/brianjonathanyoung
