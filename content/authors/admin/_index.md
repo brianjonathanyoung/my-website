@@ -5,9 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Endocrine disrupting chemicals - toxicity
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,9 +40,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Brian Young studies the adverse effects of chemicals on aquatic (fish, daphnia, algae) and terrestrial (plant, earthworm) organisms. His main research topics are endocrine disruption in fish and toxicity assessment of contaminated soil and water, effluents and waste. Also, he works on remediation of a contaminated site.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
