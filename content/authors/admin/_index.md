@@ -6,7 +6,7 @@ bio: ""
 interests:
   - Endocrine disrupting chemicals - toxicity
 social:
-  - icon: researchgate
+  - icon: facebook
     icon_pack: fas
     link: https://www.researchgate.net/profile/Brian-Young-9
   - icon: twitter
