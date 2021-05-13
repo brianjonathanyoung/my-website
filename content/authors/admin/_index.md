@@ -2,41 +2,37 @@
 title: Brian Jonathan Young
 role: PhD in Ecotoxicology
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Endocrine disrupting chemicals - toxicity
 social:
-  - icon: envelope
+  - icon: researchgate
     icon_pack: fas
-    link: /#contact
+    link: https://www.researchgate.net/profile/Brian-Young-9
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/BrianJonathanY1
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/brianjonathanyoung
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/brian-jonathan-young-ar/?locale=en_US
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Instituto Nacional de Tecnología Agropecuaria (INTA)
+    url: https://www.argentina.gob.ar/inta
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Ecotoxicology
+      institution: National University of La Plata, Argentina
+      year: 2019
+    - course: Bach/MSc degree in Environmental Sciences
+      institution: University of Buenos Aires, Argentina
+      year: 2011
+email: brianjonathanyoung@gmail.com
 superuser: true
 highlight_name: false
 ---
