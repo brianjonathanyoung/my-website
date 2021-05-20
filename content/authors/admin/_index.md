@@ -12,8 +12,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BrianJonathanY1
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=d7taFN8AAAAJ
   - icon: github
     icon_pack: fab
