@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: brianjonathanyoung@gmail.com
+email: 'brianjonathanyoung@gmail.com'
 #phone: 888 888 88 88
 #address:
 #  street: 450 Serra Mall
@@ -42,9 +42,9 @@ email: brianjonathanyoung@gmail.com
 #    icon_pack: fab
 #    name: DM Me
 #    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: brian.jonathan.young
+  - icon: 'skype'
+    icon_pack: 'fab'
+    name: 'brian.jonathan.young'
     link: 'https://join.skype.com/invite/sOA4SOKZIvtl'
 #  - icon: keybase
 #    icon_pack: fab
