@@ -6,8 +6,8 @@ bio: ""
 interests:
   - Endocrine disrupting chemicals - toxicity
 social:
-  - icon: facebook
-    icon_pack: fas
+  - icon: researchgate
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Brian-Young-9
   - icon: twitter
     icon_pack: fab
@@ -21,6 +21,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/brian-jonathan-young-ar/?locale=en_US
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/0000-0002-0552-9080
 organizations:
   - name: Instituto Nacional de Tecnología Agropecuaria (INTA)
     url: https://www.argentina.gob.ar/inta
