@@ -47,5 +47,5 @@ Brian Young studies the adverse effects of chemicals on aquatic (fish, daphnia, 
 
 <!--EndFragment-->
 
-{{% staticref "uploads/resume.pdf" "newtab" %}}Download my resume{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} {{% staticref "uploads/resume.pdf" "newtab" %}}Download my resume{{% /staticref %}}
 
