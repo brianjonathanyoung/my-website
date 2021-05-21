@@ -46,8 +46,8 @@ doi: https://doi.org/10.1016/j.ecoenv.2020.111176
 featured: true
 tags: []
 projects: []
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+image: 
+  caption: "content/publication/example/perianal_hyperpigmentation.jpg"
   focal_point: ""
   preview_only: false
 date: 2020-12-14T03:36:00.000Z
