@@ -5,7 +5,7 @@
 
 title: 'Brian Young' # Website name
 baseurl: 'https://brianyoung.netlify.app/' # Website URL
-copyright: '© {2021} Brian Jonathan Young' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Brian Jonathan Young' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
