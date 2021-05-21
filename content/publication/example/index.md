@@ -46,10 +46,11 @@ doi: https://doi.org/10.1016/j.ecoenv.2020.111176
 featured: true
 tags: []
 projects: []
-image: 
-  caption: "content/publication/example/perianal_hyperpigmentation.jpg"
+image:
+  caption: ""
   focal_point: ""
   preview_only: false
+  filename: perianal_hyperpigmentation.jpg
 date: 2020-12-14T03:36:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
